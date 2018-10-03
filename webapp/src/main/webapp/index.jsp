@@ -1,1 +1,1 @@
-Hello, World!
+Welcome to BITS Pialni DevOps Course!
